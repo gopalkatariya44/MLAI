@@ -8,7 +8,7 @@ class Marks:
 
     def __init__(self,rollno,mark1,mark2,mark3):
         self.rollno = rollno
-        self.mark1 = mark1q
+        self.mark1 = mark1
         self.mark2 = mark2
         self.mark3 = mark3
 
